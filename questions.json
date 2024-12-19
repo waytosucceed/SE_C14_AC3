@@ -1,0 +1,168 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "What is the result of dividing 0.36 by 0.06?",
+      "options": [
+        "0.6",
+        "6",
+        "6.10",
+        "60"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q2",
+      "question": "If you divide 5 by 0.025, what is the result?",
+      "options": [
+        "2",
+        "20.20",
+        "200.32",
+        "200"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q3",
+      "question": "Divide 0.0036 by 0.06.",
+      "options": [
+        "0.06",
+        "0.6",
+        "60",
+        "0.006"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q4",
+      "question": "30.94 ÷ 7 = ?",
+      "options": [
+        "3.52",
+        "4.72",
+        "3.92",
+        "4.42"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q5",
+      "question": "What is the result of dividing 7 by 0.14?",
+      "options": [
+        "50",
+        "500",
+        "50.10",
+        "50.01"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q6",
+      "question": "Value of 0.144 by 6 is ____ .",
+      "options": [
+        "0.22",
+        "0.024",
+        "0.24",
+        "0.022"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q7",
+      "question": "Divide 6.75 by 0.15.",
+      "options": [
+        "450",
+        "4.5",
+        "45",
+        "0.45"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q8",
+      "question": "What is the result when 0.128 is divided by 0.004?",
+      "options": [
+        "3.21",
+        "3.2",
+        "320",
+        "32"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q9",
+      "question": "A grocery store sells bananas at $0.59 per pound. If a customer buys 2.5 pounds, how much does she pay?",
+      "options": [
+        "$1.48",
+        "$1.475",
+        "$1.49",
+        "$1.50"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q10",
+      "question": "A bottle contains 1.75 liters of juice. If each serving is 0.25 liters, how many servings are in the bottle?",
+      "options": [
+        "6 servings",
+        "7 servings",
+        "8 servings",
+        "9 servings"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q11",
+      "question": "A machine part rotates at 0.785 revolutions per second. How many revolutions will it complete in 25 seconds?",
+      "options": [
+        "19.625",
+        "19.65",
+        "19.70",
+        "19.60"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q12",
+      "question": "A container holds 0.65 liters of juice, and each glass can hold 0.065 liters. How many full glasses can be poured?",
+      "options": [
+        "8 glasses",
+        "10.65 glasses",
+        "10 glasses",
+        "8.65 glasses"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q13",
+      "question": "A freelance graphic designer charges $35.50 per hour for her services. If she works on a project for 18.2 hours, how much will she bill her client for this project?",
+      "options": [
+        "$645.10",
+        "$646.10",
+        "$647.00",
+        "$646.00"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q14",
+      "question": "Find the area of a triangle whose base is 4.2 and height is 6.3 ?<br>Note : Area of triangle is:<br><img width='40%' src='./assests/images/1.png'>",
+      "options": [
+        "13 unit<sup>2<sup>",
+        "13.23 unit<sup>2<sup>",
+        "13.32 unit<sup>2<sup>",
+        "12.23 unit<sup>2<sup>"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q15",
+      "question": "A garden has a rectangular section that measures 15.2 meters in length and 9.8 meters in width. What is the area of this rectangular section of the garden?<br> Note :<br>Area of rectangle = Length × Breadth ",
+      "options": [
+        "145.16 m<sup>2<sup>",
+        "142.36 m<sup>2<sup>",
+        "148.96 m<sup>2<sup>",
+        "149.56 m<sup>2<sup>"
+      ],
+      "correct": 2
+    }
+  ]
+  
